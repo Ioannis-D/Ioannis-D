@@ -1,4 +1,4 @@
-Hi! I am Ioannis Doganos, economist and data analyst. 
+Hi! I am **Ioannis Doganos**, economist and data analyst. 
 
 This is my GitHub account where you can find some of my personal projects and my partitipations in TidyTuesday. 
 
