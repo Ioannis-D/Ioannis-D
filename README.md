@@ -11,7 +11,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 
 <p>
   <details>
-    <summary> <h1> TiyTuesday </h1> </summary> 
+    <summary> <h1> TidyTuesday </h1> </summary> 
     
 - ## Central Park Squirrels 🏞️ 
   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/4rth%20Week">
