@@ -39,11 +39,21 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     <summary> <h1> Personal Projects </h1> </summary>
     
 - ## La Curva de Phillips en España 📈
+    
     <div align="center">
     <a href="https://github.com/Ioannis-D/Personal_Projects/tree/main/La%20curva%20de%20Phillips%20en%20Espa%C3%B1a">
       <img src="https://github.com/Ioannis-D/Personal_Projects/blob/main/La%20curva%20de%20Phillips%20en%20Espa%C3%B1a/Curva%20de%20Phillips%20en%20Espa%C3%B1a.png" alt="La curva de Phillips en España"
            width= "500" height="500">
     </a>
     </div> 
+    
+- ## Precios de Maíz en España en 2022
+    
+    <div align="center">
+
+    <a href="https://github.com/Ioannis-D/Personal_Projects/tree/main/Precios%20de%20ma%C3%ADz">
+      <img src="https://github.com/Ioannis-D/Personal_Projects/blob/main/Precios%20de%20ma%C3%ADz/Precios%20de%20maiz.png" alt="Precios de Maíz en 2022" width= "500" height="500">
+    </a>
+    </div>
  </p>
   
