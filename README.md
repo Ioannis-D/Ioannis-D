@@ -1,6 +1,6 @@
 Hi! I am **Ioannis Doganos**, economist and data analyst. 
 
-This is my GitHub account where you can find some of my personal projects and my partitipations in TidyTuesday. 
+This is my GitHub account where you can find some of my personal projects and my partitipations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
 
 You can also find me in 
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.GmEilguibpp9W1x-nxnMAQAAAA%26pid%3DApi&f=1&ipt=e224514b4d0edcb2805fbcc4cae67b26e09a45c2262189b1555b5759d0ad7c9e&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/), 
