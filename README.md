@@ -16,9 +16,9 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 - ## Verified Oldest People 🧓
     <div align="center">
       <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/5th%20Week">
-        <img src="https://github.com/Ioannis-D/TidyTuesday/blob/main/May/5th%20Week/Eldest%20People%20Born%20after%201900.png"
+        <img id="Oldest verified People" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/May/5th%20Week/Eldest%20People%20Born%20after%201900.png"
              alt="Verified Oldest People who were born after the 1900"
-             width="500", height="500">
+             width="1500", height="500">
       </a>
     </div>
     
@@ -26,7 +26,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     <div align="center">
   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/4rth%20Week">
    <img id="Central_Park_Squirrels" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/May/4rth%20Week/Squirrels'%20Behavior%20with%20humans.png" alt="Squirrels running away or approaching humans" 
-        width= "500" height="1000">
+        width= "500" height="500">
   </a>
   </div>
   
@@ -34,7 +34,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     <div align="center">
   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/3rd%20Week">
     <img id="Tornados" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/May/3rd%20Week/Number_Injuries_Fatalities.png" alt="Number of Injuries and Fatalities from Tornados"
-         width= "1000" height="800">
+         width= "500" height="500">
   </a>
     </div>
           
