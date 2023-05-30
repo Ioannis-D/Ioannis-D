@@ -12,6 +12,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 <p>
   <details>
     <summary> <h1> TidyTuesday </h1> </summary> 
+    
 - ## Verified Oldest People 🧓
     <div align="center">
       <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/5th%20Week">
