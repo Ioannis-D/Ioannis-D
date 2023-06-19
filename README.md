@@ -15,7 +15,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     
 - ## Renewable Energy Production in Europe 🔌
     <div align="center">
-      <a href=https://github.com/Ioannis-D/TidyTuesday/blob/main/June/1st%20Week/Renewable_Energy_percentage.gif>
+      <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/June/1st%20Week">
         <img id="Renewable Energy Production in Europe" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/June/1st%20Week/Renewable_Energy_percentage.gif" 
              alt="GIF showing with colorscale the percentage of renewable production in European countries since 1990 until 2022."
              width="500", height="500">
