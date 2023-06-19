@@ -13,6 +13,15 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
   <details>
     <summary> <h1> TidyTuesday </h1> </summary> 
     
+- ## Renewable Energy Production in Europe 🔌
+    <div align="center">
+      <a href=https://github.com/Ioannis-D/TidyTuesday/blob/main/June/1st%20Week/Renewable_Energy_percentage.gif>
+        <img id="Renewable Energy Production in Europe" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/June/1st%20Week/Renewable_Energy_percentage.gif" 
+             alt="GIF showing with colorscale the percentage of renewable production in European countries since 1990 until 2022."
+             width="500", height="500">
+      </a>
+    </div>
+    
 - ## Verified Oldest People 🧓
     <div align="center">
       <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/5th%20Week">
