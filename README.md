@@ -12,6 +12,15 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 <p>
   <details>
     <summary> <h1> TidyTuesday </h1> </summary> 
+
+- ## Scurvy :🏴‍☠️
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/July/4rth%20Week" >
+     <img id="Scurvy" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/July/4rth%20Week/24_07.png"
+         alt = "An image showing the result of James Lind study for each of the 12 individuals. Each treatment is shown with a different icon, which has different color based on the final situation of the patient"
+       width = "", height=""
+   </a>
+  </div>
     
 - ## Historical Markers in USA
   <div align="center">
