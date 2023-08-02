@@ -13,7 +13,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
   <details>
     <summary> <h1> TidyTuesday </h1> </summary> 
 
-- ## Scurvy :🏴‍☠️
+- ## Scurvy 🏴‍☠️
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/July/4rth%20Week" >
      <img id="Scurvy" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/July/4rth%20Week/24_07.png"
