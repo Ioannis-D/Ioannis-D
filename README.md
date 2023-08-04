@@ -15,8 +15,8 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 
 - ## Scurvy 🏴‍☠️
   <div align="center">
-   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/July/4rth%20Week" >
-     <img id="Scurvy" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/July/4rth%20Week/24_07.png"
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-30" >
+     <img id="Scurvy" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-30/24_07.png"
          alt = "An image showing the result of James Lind study for each of the 12 individuals. Each treatment is shown with a different icon, which has different color based on the final situation of the patient"
        width = "500", height="600"
    </a>
@@ -24,8 +24,8 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     
 - ## Historical Markers in USA
   <div align="center">
-   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/June/4th%20Week" >
-     <img id="Historical Markers in USA" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/June/4th%20Week/Historical_Markers_USA.png"
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-26" >
+     <img id="Historical Markers in USA" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-26/Historical_Markers_USA.png"
          alt = "a map showing the markers still existing that most at the North, South, East and West are, the oldest marker existing and the state with the most markers and the state with the most missing markers"
        width = "", height=""
    </a>
@@ -33,8 +33,8 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     
 - ## Renewable Energy Production in Europe 🔌
     <div align="center">
-      <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/June/1st%20Week">
-        <img id="Renewable Energy Production in Europe" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/June/1st%20Week/Renewable_Energy_percentage.gif" 
+      <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-23">
+        <img id="Renewable Energy Production in Europe" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-23/Renewable_Energy_percentage.gif" 
              alt="GIF showing with colorscale the percentage of renewable production in European countries since 1990 until 2022."
              width="500", height="500">
       </a>
@@ -42,8 +42,8 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     
 - ## Verified Oldest People 🧓
     <div align="center">
-      <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/5th%20Week">
-        <img id="Oldest verified People" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/May/5th%20Week/Eldest%20People%20Born%20after%201900.png"
+      <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-22">
+        <img id="Oldest verified People" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-22/Eldest%20People%20Born%20after%201900.png"
              alt="Verified Oldest People who were born after the 1900"
              width="1500", height="500">
       </a>
@@ -51,16 +51,16 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
     
 - ## Central Park Squirrels 🏞️ 
     <div align="center">
-  <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/4rth%20Week">
-   <img id="Central_Park_Squirrels" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/May/4rth%20Week/Squirrels'%20Behavior%20with%20humans.png" alt="Squirrels running away or approaching humans" 
+  <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-21">
+   <img id="Central_Park_Squirrels" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-21/Squirrels'%20Behavior%20with%20humans.png" alt="Squirrels running away or approaching humans" 
         width= "500" height="500">
   </a>
   </div>
   
 - ## Tornados 🌪️
     <div align="center">
-  <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/May/3rd%20Week">
-    <img id="Tornados" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/May/3rd%20Week/Number_Injuries_Fatalities.png" alt="Number of Injuries and Fatalities from Tornados"
+  <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-20">
+    <img id="Tornados" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-20/Number_Injuries_Fatalities.png" alt="Number of Injuries and Fatalities from Tornados"
          width= "500" height="500">
   </a>
     </div>
