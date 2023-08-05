@@ -13,7 +13,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
   <details>
     <summary> <h1> TidyTuesday </h1> </summary> 
 
-- ## Colorado Day
+- ## Colorado Day 🇺🇸
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-31" >
      <img id="Colorado Day" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-31/01_08.png"
