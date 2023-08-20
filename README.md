@@ -16,7 +16,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 - ## Spam emails 📧
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-33" >
-     <img id="Colorado Day" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-33/17_08.png"
+     <img id="Colorado Day" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-33/15_08.png"
          alt = "A chart with the title Characteristics of NO SPAM email. The subtitle says Spam emails tend to be  l o n g e r, mention more the term 'make money' or include symbols like the ! and the $. 
        Below are two plots, on the left a radar chart showing the presence of spetial characters and words in spam and no spam emails and on the right two boxplots each representing spam and no-spam emails' number of caracters- The colors for the SPAM is red and for no spam is green"
    </a>
