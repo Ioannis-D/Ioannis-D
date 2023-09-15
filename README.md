@@ -13,6 +13,13 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
   <details>
     <summary> <h1> TidyTuesday </h1> </summary> 
 
+- ## Time spent in or on bed
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-37" >
+     <img id="Colorado Day" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-37/Week_37.png"
+   </a>
+  </div>
+
 - ## Spam emails 📧
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-33" >
