@@ -16,7 +16,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 - ## CRAN packages top contributors
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-38" >
-     <img id="CRAN" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-37/Week_38.png"
+     <img id="CRAN" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-38/Week_38.png"
    </a>
   </div>
 
