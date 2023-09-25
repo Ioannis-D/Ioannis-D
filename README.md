@@ -12,14 +12,14 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
 <details open>
   <summary><h1> TidyTuesday </h1></summary> 
     
-- ## CRAN packages top contributors
+- ## CRAN packages top contributors :💻
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-38" >
      <img id="CRAN" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-38/Week_38.png"
    </a>
   </div>
 
-- ## Time spent in or on bed
+- ## Time spent in or on bed :🛏️
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-37" >
      <img id="Sleeping" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-37/Week_37.png"
@@ -55,7 +55,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
    </a>
   </div>
     
-- ## Historical Markers in USA
+- ## Historical Markers in USA 🇺🇸
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-26" >
      <img id="Historical Markers in USA" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-26/Historical_Markers_USA.png"
