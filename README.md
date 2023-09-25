@@ -9,10 +9,9 @@ You can also find me in
 
 Below are some of my latest contibutions. Click on the image to go to the repository.
 
-<p>
-  <details>
-    <summary> <h1> TidyTuesday </h1> </summary> 
-
+<details open>
+  <summary><h1> TidyTuesday </h1></summary> 
+    
 - ## CRAN packages top contributors
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-38" >
@@ -35,8 +34,11 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
        Below are two plots, on the left a radar chart showing the presence of spetial characters and words in spam and no spam emails and on the right two boxplots each representing spam and no-spam emails' number of caracters- The colors for the SPAM is red and for no spam is green"
    </a>
   </div>
-
-- ## Colorado Day 🇺🇸
+  
+<details>
+  <summary> <h4> Show more from TidyTuesday </h4> </summary>
+  
+  - ## Colorado Day 🇺🇸
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-31" >
      <img id="Colorado Day" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-31/01_08.png"
@@ -95,11 +97,10 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
          width= "500" height="500">
   </a>
     </div>
-          
-  
+  </details>
+
     
   </details>
-</p>
 
 <p>
   <details>
