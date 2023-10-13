@@ -113,8 +113,8 @@ Below are some of my latest contributions. Click on the image to go to the repos
     </a>
     </div>
 
-    <details>
-      <summary> <h1> Show more personal projects </h1> </summary>
+  <details>
+    <summary> <h1> Show more personal projects </h1> </summary>
     
 - ## La Curva de Phillips en España 📈
     
