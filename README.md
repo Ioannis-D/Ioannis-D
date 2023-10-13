@@ -1,13 +1,13 @@
 Hi! I am **Ioannis Doganos**, economist and data analyst. 
 
-This is my GitHub account where you can find some of my personal projects in data analysis and my partitipations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
+This is my GitHub account where you can find some of my personal projects in data analysis and my participations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
 
 You can also find me in 
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.GmEilguibpp9W1x-nxnMAQAAAA%26pid%3DApi&f=1&ipt=e224514b4d0edcb2805fbcc4cae67b26e09a45c2262189b1555b5759d0ad7c9e&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/) and
 - <img src="https://seeklogo.com/images/C/codeberg-logo-48AEF275F9-seeklogo.com.png" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
 
 
-Below are some of my latest contibutions. Click on the image to go to the repository.
+Below are some of my latest contributions. Click on the image to go to the repository.
 
 <details open>
   <summary><h1> TidyTuesday </h1></summary> 
@@ -90,7 +90,7 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
   </a>
   </div>
   
-- ## Tornados 🌪️
+- ## Tornadoes 🌪️
     <div align="center">
   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-20">
     <img id="Tornados" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-20/Number_Injuries_Fatalities.png" alt="Number of Injuries and Fatalities from Tornados"
@@ -103,8 +103,18 @@ Below are some of my latest contibutions. Click on the image to go to the reposi
   </details>
 
 <p>
-  <details>
-    <summary> <h1> Personal Projects </h1> </summary>
+  <details open>
+    <summary> <h3> Personal Projects </h3> </summary>
+
+- ## Directory Parser (written in Perl)
+    <div align="center">
+    <a href="https://github.com/Ioannis-D/Directory-Parser-perl">
+      <img src="https://github.com/Ioannis-D/Directory-Parser-perl/blob/main/images/Directory_parser_logo.png">
+    </a>
+    </div>
+
+    <details>
+      <summary> <h1> Show more personal projects </h1> </summary>
     
 - ## La Curva de Phillips en España 📈
     
