@@ -103,8 +103,8 @@ Below are some of my latest contributions. Click on the image to go to the repos
   </details>
 
 <p>
-  <details open>
-    <summary> <h3> Personal Projects </h3> </summary>
+<details open>
+  <summary> <h1> Personal Projects </h1> </summary>
 
 - ## Directory Parser (written in Perl)
     <div align="center">
@@ -112,9 +112,10 @@ Below are some of my latest contributions. Click on the image to go to the repos
       <img src="https://github.com/Ioannis-D/Directory-Parser-perl/blob/main/images/Directory_parser_logo.png">
     </a>
     </div>
+</p>
 
-  <details>
-    <summary> <h1> Show more personal projects </h1> </summary>
+<details>
+  <summary> <h4> Show more personal projects </h4> </summary>
     
 - ## La Curva de Phillips en España 📈
     
@@ -132,6 +133,4 @@ Below are some of my latest contributions. Click on the image to go to the repos
     <a href="https://github.com/Ioannis-D/Personal_Projects/tree/main/Precios%20de%20ma%C3%ADz">
       <img src="https://github.com/Ioannis-D/Personal_Projects/blob/main/Precios%20de%20ma%C3%ADz/Precios%20de%20maiz.png" alt="Precios de Maíz en 2022" width= "500" height="500">
     </a>
-    </div>
- </p>
-  
+    </div>  
