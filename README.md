@@ -10,21 +10,33 @@ You can also find me in
 Below are some of my latest contributions. Click on the image to go to the repository.
 
 <details open>
-  <summary><h1> TidyTuesday </h1></summary> 
+  
+  <summary> <h1> TidyTuesday </h1> </summary> 
+  
+- ## Haunted Places in the United States (Halloween Special) 👻
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-41" >
+     <img id="Haunted Places" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-41/Week_41.png"
+   </a>
+  </div>
     
-- ## CRAN packages top contributors :💻
+- ## CRAN packages top contributors 💻
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-38" >
      <img id="CRAN" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-38/Week_38.png"
    </a>
   </div>
 
-- ## Time spent in or on bed :🛏️
+- ## Time spent in or on bed 🛏️
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-37" >
      <img id="Sleeping" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-37/Week_37.png"
    </a>
   </div>
+
+  
+<details>
+  <summary> <h4> Show more from TidyTuesday </h4> </summary>
 
 - ## Spam emails 📧
   <div align="center">
@@ -34,9 +46,6 @@ Below are some of my latest contributions. Click on the image to go to the repos
        Below are two plots, on the left a radar chart showing the presence of spetial characters and words in spam and no spam emails and on the right two boxplots each representing spam and no-spam emails' number of caracters- The colors for the SPAM is red and for no spam is green"
    </a>
   </div>
-  
-<details>
-  <summary> <h4> Show more from TidyTuesday </h4> </summary>
   
   - ## Colorado Day 🇺🇸
   <div align="center">
