@@ -115,6 +115,13 @@ Below are some of my latest contributions. Click on the image to go to the repos
 <details open>
   <summary> <h1> Personal Projects </h1> </summary>
 
+- ## Job Application Tracker (written in Python)
+    <div align="center">
+    <a href="https://github.com/Ioannis-D/Job-Application-Tracker">
+      <img src="https://github.com/Ioannis-D/Job-Application-Tracker/raw/main/Images/Job%20Application%20Tracker%20logo.png">
+    </a>
+    </div>
+
 - ## Directory Parser (written in Perl)
     <div align="center">
     <a href="https://github.com/Ioannis-D/Directory-Parser-perl">
