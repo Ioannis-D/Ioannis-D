@@ -13,6 +13,18 @@ Below are some of my latest contributions. Click on the image to go to the repos
   
   <summary> <h1> TidyTuesday </h1> </summary> 
   
+- ## Dr Who TV Series
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-48" >
+     <img id="Dr Who Ratings" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/2023/2023-week-48/Week_48.png"
+   </a>
+  </div>
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-48" >
+     <img id="Dr Who Collabs" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/2023/2023-week-48/Week_48_b.png"
+   </a>
+  </div>
+
 - ## Haunted Places in the United States (Halloween Special) 👻
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-41" >
