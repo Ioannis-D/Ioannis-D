@@ -13,6 +13,13 @@ Below are some of my latest contributions. Click on the image to go to the repos
   
   <summary> <h1> TidyTuesday </h1> </summary> 
   
+- ## Life Expectancy
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-49" >
+     <img id="Life Expectancy" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/2023/2023-week-49/Week_49.gif"
+   </a>
+  </div>
+
 - ## Dr Who TV Series
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-48" >
