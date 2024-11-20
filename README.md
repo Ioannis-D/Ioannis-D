@@ -3,7 +3,7 @@ Hi! I am **Ioannis Doganos**, economist and data analyst.
 This is my GitHub account where you can find some of my personal projects in data analysis and my participations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
 
 You can also find me in 
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F021%2F460%2F490%2Foriginal%2Flinkedin-logo-free-download-free-png.png&f=1&nofb=1&ipt=7b341b2163b96f05838b001d2b7e64baec80031d04e8a5f305978327bd725015&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/) and
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/) and
 - <img src="https://seeklogo.com/images/C/codeberg-logo-48AEF275F9-seeklogo.com.png" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
 
 
