@@ -4,14 +4,12 @@ This is my GitHub account where you can find some of my personal projects in dat
 
 You can also find me in 
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/) and
-- <img src="https://seeklogo.com/images/C/codeberg-logo-48AEF275F9-seeklogo.com.png" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngrepo.com%2Fdownload%2F349319%2Fcodeberg.png&f=1&nofb=1&ipt=4c753b97a180a30d93ee04f3807b92ba575ae431784d175ef2aabd6dbe5cb62b" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
 
 
-Below are some of my latest contributions. Click on the image to go to the repository.
+Below are some of my latest contributions. 
 
-<details open>
-  
-  <summary> <h1> TidyTuesday </h1> </summary> 
+<summary> <h1> TidyTuesday </h1> </summary> 
   
 - ## Life Expectancy
   <div align="center">
@@ -53,10 +51,6 @@ Below are some of my latest contributions. Click on the image to go to the repos
    </a>
   </div>
 
-  
-<details>
-  <summary> <h4> Show more from TidyTuesday </h4> </summary>
-
 - ## Spam emails 📧
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-33" >
@@ -65,7 +59,7 @@ Below are some of my latest contributions. Click on the image to go to the repos
        Below are two plots, on the left a radar chart showing the presence of spetial characters and words in spam and no spam emails and on the right two boxplots each representing spam and no-spam emails' number of caracters- The colors for the SPAM is red and for no spam is green"
    </a>
   </div>
-  
+
   - ## Colorado Day 🇺🇸
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-31" >
@@ -131,8 +125,7 @@ Below are some of my latest contributions. Click on the image to go to the repos
   </details>
 
 <p>
-<details open>
-  <summary> <h1> Personal Projects </h1> </summary>
+<summary> <h1> Personal Projects </h1> </summary>
 
 - ## Job Application Tracker (written in Python)
     <div align="center">
@@ -149,8 +142,7 @@ Below are some of my latest contributions. Click on the image to go to the repos
     </div>
 </p>
 
-<details>
-  <summary> <h4> Show more personal projects </h4> </summary>
+<summary> <h4> Show more personal projects </h4> </summary>
     
 - ## La Curva de Phillips en España 📈
     
