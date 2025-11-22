@@ -123,8 +123,6 @@ Below are some of my latest contributions.
     
 </details>
 
-<p>
-
 <details>
 <summary> <h1> Personal Projects </h1> </summary>
 
@@ -160,4 +158,3 @@ Below are some of my latest contributions.
     </a>
     </div>  
 </details>
-</p>
