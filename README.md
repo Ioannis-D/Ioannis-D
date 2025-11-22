@@ -9,7 +9,8 @@ You can also find me in
 
 Below are some of my latest contributions. 
 
-<summary> <h1> TidyTuesday </h1> </summary> 
+<details>
+  <summary> <h1> TidyTuesday </h1> </summary> 
   
 - ## Life Expectancy
   <div align="center">
@@ -119,12 +120,12 @@ Below are some of my latest contributions.
          width= "500" height="500">
   </a>
     </div>
-  </details>
-
     
-  </details>
+</details>
 
 <p>
+
+<details>
 <summary> <h1> Personal Projects </h1> </summary>
 
 - ## Job Application Tracker (written in Python)
@@ -140,10 +141,7 @@ Below are some of my latest contributions.
       <img src="https://github.com/Ioannis-D/Directory-Parser-perl/blob/main/images/Directory_parser_logo.png">
     </a>
     </div>
-</p>
 
-<summary> <h4> Show more personal projects </h4> </summary>
-    
 - ## La Curva de Phillips en España 📈
     
     <div align="center">
@@ -161,3 +159,5 @@ Below are some of my latest contributions.
       <img src="https://github.com/Ioannis-D/Personal_Projects/blob/main/Precios%20de%20ma%C3%ADz/Precios%20de%20maiz.png" alt="Precios de Maíz en 2022" width= "500" height="500">
     </a>
     </div>  
+</details>
+</p>
