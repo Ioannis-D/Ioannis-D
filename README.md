@@ -16,7 +16,7 @@ You can also find me in
 
 <details>
     <summary><h1>Skills Overview</h1></summary>
-    <h5>Languages:</h5>
+    <h3>Languages:</h3>
     <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
       <img width="12" />
@@ -40,7 +40,7 @@ You can also find me in
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
     </div>
-    <h5>Tools:</h5>
+    <h3>Tools:</h3>
     <div align="left">
       <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
       <img width="12" />
@@ -54,7 +54,7 @@ You can also find me in
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
     </div>
-    <h5>Python libraries:</h5>
+    <h3>Python libraries:</h3>
     <div align="left">
       <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
       <img width="12" />
