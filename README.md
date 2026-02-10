@@ -1,7 +1,7 @@
 <p align="center">
  <img 
     src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"
-    width="200"
+    width="600"
     height="100">
 </p>
 
@@ -12,8 +12,6 @@ This is my GitHub account where you can find some of my personal projects and my
 You can also find me in 
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/) and
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngrepo.com%2Fdownload%2F349319%2Fcodeberg.png&f=1&nofb=1&ipt=4c753b97a180a30d93ee04f3807b92ba575ae431784d175ef2aabd6dbe5cb62b" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
-
-<h4 align="left">Languages and tools that I use:</h4>
 
 ###
 <h4 align="left">Languages that I use:</h4>
