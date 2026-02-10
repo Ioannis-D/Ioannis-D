@@ -17,7 +17,7 @@ You can also find me in
 
 <details>
     <summary><h1>Skills Overview</h1></summary>
-    <h3>Languages:</h3>
+    <h3>Languages</h3>
     <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
       <img width="12" />
@@ -44,7 +44,7 @@ You can also find me in
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2FTDC-d525f4a3.png%3Ft%3D1742913806&f=1&nofb=1&ipt=ee62fd54bd003f5018a6e96b30bc3936121d55d1a3c303c3ae26959a3962fe1a" height="40" alt="teradata logo"  />
       <img width="12" />
     </div>
-    <h3>Tools:</h3>
+    <h3>Tools</h3>
     <div align="left">
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Excel-Logo.png&f=1&nofb=1&ipt=2b71bfa5ba716cb206e510e287f7637fec79a34df176b9f9aa327adf2f2b0465" height="40" alt="excel logo"  />
       <img width="12" />
@@ -56,7 +56,7 @@ You can also find me in
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
     </div>
-    <h3>Python libraries:</h3>
+    <h3>Python libraries</h3>
     <div align="left">
       <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
       <img width="12" />
