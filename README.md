@@ -1,7 +1,7 @@
 <p align="center">
  <img 
     src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif"
-    width="600"
+    width="700"
     height="100">
 </p>
 
@@ -14,9 +14,9 @@ You can also find me in
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngrepo.com%2Fdownload%2F349319%2Fcodeberg.png&f=1&nofb=1&ipt=4c753b97a180a30d93ee04f3807b92ba575ae431784d175ef2aabd6dbe5cb62b" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
 
 ###
-<h4 align="left">Languages that I use:</h4>
+<details>
+    <summary> <h4> Languages that I use: </h4> </summary>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -41,12 +41,12 @@ You can also find me in
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
 </div>
+</details>
 
 ###
 
 <details>
 <summary> <h4 align="left">Tools:</h4> </summary>
-
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
@@ -61,7 +61,6 @@ You can also find me in
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
 </details>
 
 ###
