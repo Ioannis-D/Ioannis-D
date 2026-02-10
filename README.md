@@ -16,7 +16,7 @@ You can also find me in
 
 <details>
     <summary><h1>Skills Overview</h1></summary>
-    <h5>Languages that I use:</h5>
+    <h5>Languages:</h5>
     <div align="left">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
       <img width="12" />
@@ -68,6 +68,7 @@ You can also find me in
     </div>
 </details>
 
+###
 
 Below are some of my latest contributions. 
 
