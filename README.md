@@ -44,9 +44,9 @@ You can also find me in
 
 ###
 
-<h4 align="left">Tools:</h4>
+<details>
+<summary> <h4 align="left">Tools:</h4> </summary>
 
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
@@ -62,10 +62,12 @@ You can also find me in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
+</details>
+
 ###
 
 <details>
-    <summary> <h5> Python libraries: </h5> </summary>
+    <summary> <h4> Python libraries: </h4> </summary>
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
