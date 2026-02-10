@@ -41,11 +41,11 @@ You can also find me in
     </div>
     <h3>Tools:</h3>
     <div align="left">
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F100%2F657%2Fnon_2x%2Fmicrosoft-excel-logo-transparent-free-png.png&f=1&nofb=1&ipt=0305aec5bc35dc3e6f8ac3a80d87e33b838ed8f9123bc0f40a456d837a3b0483" height="40" alt="excel logo"  />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F022%2F101%2F030%2Foriginal%2Fmicrosoft-excel-logo-transparent-free-png.png&f=1&nofb=1&ipt=8f4c9e6d1f192e2e01367cb222f5b1e84e2a7f8b3ac27766c17be4d190909bb3" height="40" alt="excel logo"  />
       <img width="12" />
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarken.com%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Power-BI-Logo-2016-2020.png&f=1&nofb=1&ipt=bee72b2007460f1b9b594dc4d91c6b9b9a98da39ca6afcef90b2b6156bdaa0aa" height="40" alt="neovim logo"  />
       <img width="12" />
-      <img src="https://hevodata.com/learn/advanced-analytics-in-tableau/" height="40" alt="tableau logo"  />
+      <img src="https://wallpapers.com/tableau-logo-png" height="40" alt="tableau logo"  />
       <img width="12" />
       <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
       <img width="12" />
