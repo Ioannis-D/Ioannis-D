@@ -48,7 +48,7 @@ You can also find me in
     <div align="left">
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Excel-Logo.png&f=1&nofb=1&ipt=2b71bfa5ba716cb206e510e287f7637fec79a34df176b9f9aa327adf2f2b0465" height="40" alt="excel logo"  />
       <img width="12" />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarken.com%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Power-BI-Logo-2016-2020.png&f=1&nofb=1&ipt=bee72b2007460f1b9b594dc4d91c6b9b9a98da39ca6afcef90b2b6156bdaa0aa" height="40" alt="neovim logo"  />
+      <img src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcdn.freelogovectors.net%2Fwp-content%2Fuploads%2F2023%2F11%2Fpower-bi-logo-freelogovectors.net_.png&sp=1770739339Tc6364cfabb6d3fc0384ad94872a51fe9dea51ff6ecec5ad6d4a1732cff5711b1" height="40" alt="powerbi logo"  />
       <img width="12" />
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbootflare.com%2Fwp-content%2Fuploads%2F2023%2F04%2FTableau-Logo2-2048x1152.png&f=1&nofb=1&ipt=05152cb2b550171ea98970bdb9b07db6dc53ea81d057bffe1dd65d8225365b27" height="40" alt="tableau logo"  />
       <img width="12" />
