@@ -11,7 +11,7 @@ This is my GitHub account where you can find some of my personal projects and my
 
 You can also find me in 
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/)
-- <img src="https://logowik.com/medium-icon-logo-vector-75633.html" width="15" height="15">  [Medium](https://medium.com/@i.doganos) and
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F380611.png&f=1&nofb=1&ipt=141ffaa5d4e3fb81b70020126fc70c69b7201307051f2726d39b37e815b25f96" width="15" height="15">  [Medium](https://medium.com/@i.doganos) and
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngrepo.com%2Fdownload%2F349319%2Fcodeberg.png&f=1&nofb=1&ipt=4c753b97a180a30d93ee04f3807b92ba575ae431784d175ef2aabd6dbe5cb62b" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
 
 
@@ -47,14 +47,6 @@ You can also find me in
       <img width="12" />
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbootflare.com%2Fwp-content%2Fuploads%2F2023%2F04%2FTableau-Logo2-2048x1152.png&f=1&nofb=1&ipt=05152cb2b550171ea98970bdb9b07db6dc53ea81d057bffe1dd65d8225365b27" height="40" alt="tableau logo"  />
       <img width="12" />
-      <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
-      <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-      <img width="12" />
       <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
@@ -70,6 +62,8 @@ You can also find me in
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
       <img width="12" />
       <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+      <img width="12" />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeveloper.memryx.com%2F_static%2Fkeras_logo.png&f=1&nofb=1&ipt=1e73a9342b38c2163a323265259ce1d47a5d9f27638f157e854b093b9614d69b" height="40" alt="keras logo"  />
       <img width="12" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matplotlib/matplotlib-plain.svg" height="40" alt="matplotlib logo"  />
       <img width="12" />
