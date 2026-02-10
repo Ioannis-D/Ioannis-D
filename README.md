@@ -10,7 +10,8 @@ Hi! I am **Ioannis Doganos**, economist, and data analyst.
 This is my GitHub account where you can find some of my personal projects and my participations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
 
 You can also find me in 
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/) and
+- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/)
+- <img src="https://logowik.com/medium-icon-logo-vector-75633.html" width="15" height="15">  [Medium](https://medium.com/@i.doganos) and
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngrepo.com%2Fdownload%2F349319%2Fcodeberg.png&f=1&nofb=1&ipt=4c753b97a180a30d93ee04f3807b92ba575ae431784d175ef2aabd6dbe5cb62b" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
 
 
@@ -42,6 +43,12 @@ You can also find me in
     </div>
     <h3>Tools:</h3>
     <div align="left">
+      <img src="https://esa.animalia-life.club/icono-de-microsoft-excel-2023" height="40" alt="neovim logo"  />
+      <img width="12" />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogosmarken.com%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Power-BI-Logo-2016-2020.png&f=1&nofb=1&ipt=bee72b2007460f1b9b594dc4d91c6b9b9a98da39ca6afcef90b2b6156bdaa0aa" height="40" alt="neovim logo"  />
+      <img width="12" />
+      <img src="https://hevodata.com/learn/advanced-analytics-in-tableau/" height="40" alt="neovim logo"  />
+      <img width="12" />
       <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
       <img width="12" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
@@ -60,9 +67,15 @@ You can also find me in
       <img width="12" />
       <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
       <img width="12" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="pandas logo"  />
+      <img width="12" />
       <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
       <img width="12" />
       <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+      <img width="12" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matplotlib/matplotlib-plain.svg" height="40" alt="pytorch logo"  />
+      <img width="12" />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png&f=1&nofb=1&ipt=40c0d3a9d3d994de64db6fffe758b7dcb701fa200b098f93d5164391ca473dc7" height="40" alt="pytorch logo"  />
       <img width="12" />
       <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
     </div>
