@@ -1,6 +1,10 @@
-Hi! I am **Ioannis Doganos**, economist and data analyst. 
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif">
+</p>
 
-This is my GitHub account where you can find some of my personal projects in data analysis and my participations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
+Hi! I am **Ioannis Doganos**, economist, and data analyst. 
+
+This is my GitHub account where you can find some of my personal projects and my participations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
 
 You can also find me in 
 - <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/) and
@@ -125,6 +129,13 @@ Below are some of my latest contributions.
 
 <details>
 <summary> <h1> Personal Projects </h1> </summary>
+
+- ## pige.ovpn - a TUI app
+    <div align="center">
+    <a href="https://github.com/Ioannis-D/pigeovpn">
+      <img src="https://github.com/Ioannis-D/pigeovpn/blob/main/images/pigeovpn_logo.png">
+    </a>
+    </div>
 
 - ## Job Application Tracker (written in Python)
     <div align="center">
