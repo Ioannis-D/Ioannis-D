@@ -9,6 +9,8 @@ Hi! I am **Ioannis Doganos**, economist, and data analyst.
 
 This is my GitHub account where you can find some of my personal projects and my participations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
 
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/i-doganos/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
