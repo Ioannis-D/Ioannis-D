@@ -9,11 +9,21 @@ Hi! I am **Ioannis Doganos**, economist, and data analyst.
 
 This is my GitHub account where you can find some of my personal projects and my participations in [TidyTuesday](https://github.com/rfordatascience/tidytuesday). 
 
-You can also find me in 
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.iconpacks.net%2Ficons%2F2%2Ffree-linkedin-logo-icon-2430-thumb.png&f=1&nofb=1&ipt=8e126cac31b6609c5fe40c359ae3204409e545cb94e4974822d821a44c716f9a&ipo=images" width="15" height="15">  [LinkedIn](https://www.linkedin.com/in/i-doganos/)
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F380611.png&f=1&nofb=1&ipt=141ffaa5d4e3fb81b70020126fc70c69b7201307051f2726d39b37e815b25f96" width="15" height="15">  [Medium](https://medium.com/@i.doganos) and
-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pngrepo.com%2Fdownload%2F349319%2Fcodeberg.png&f=1&nofb=1&ipt=4c753b97a180a30d93ee04f3807b92ba575ae431784d175ef2aabd6dbe5cb62b" width="15" height="15" style="vertical-align:middle"> [Codeberg](https://codeberg.org/Ioannis-D)
 
+You can also find me in 
+<div align="center">
+  <a href="https://www.linkedin.com/in/i-doganos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://medium.com/@i.doganos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="medium logo"  />
+  </a>
+  <a href="https://codeberg.org/Ioannis-D" target="_blank">
+    <img src="https://img.shields.io/badge/CODEBERG-blue?style=for-the-badge&logo=codeberg&logoColor=white" height="40" alt="bluesky logo"  />
+  </a>
+</div>
+
+###
 
 <details>
     <summary><h1>Skills Overview</h1></summary>
