@@ -97,13 +97,14 @@ Below are some of my latest contributions.
 <details>
   <summary> <h1> TidyTuesday </h1> </summary> 
   
-- ## Life Expectancy
-  <div align="center">
-   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-49" >
-     <img id="Life Expectancy" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/2023/2023-week-49/Week_49.gif"
-   </a>
-  </div>
-
+- ## Tornadoes 🌪️
+    <div align="center">
+  <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-20">
+    <img id="Tornados" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-20/Number_Injuries_Fatalities.png" alt="Number of Injuries and Fatalities from Tornados"
+         width= "500" height="500">
+  </a>
+    </div>
+    
 - ## Dr Who TV Series
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-48" >
@@ -116,6 +117,13 @@ Below are some of my latest contributions.
    </a>
   </div>
 
+- ## Time spent in or on bed 🛏️
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-37" >
+     <img id="Sleeping" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-37/Week_37.png"
+   </a>
+  </div>
+
 - ## Haunted Places in the United States (Halloween Special) 👻
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-41" >
@@ -123,17 +131,19 @@ Below are some of my latest contributions.
    </a>
   </div>
     
+- ## Scurvy 🏴‍☠️
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-30" >
+     <img id="Scurvy" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-30/24_07.png"
+         alt = "An image showing the result of James Lind study for each of the 12 individuals. Each treatment is shown with a different icon, which has different color based on the final situation of the patient"
+       width = "500", height="600"
+   </a>
+  </div>
+    
 - ## CRAN packages top contributors 💻
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-38" >
      <img id="CRAN" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-38/Week_38.png"
-   </a>
-  </div>
-
-- ## Time spent in or on bed 🛏️
-  <div align="center">
-   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-37" >
-     <img id="Sleeping" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-37/Week_37.png"
    </a>
   </div>
 
@@ -154,15 +164,6 @@ Below are some of my latest contributions.
    </a>
   </div>
 
-- ## Scurvy 🏴‍☠️
-  <div align="center">
-   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-30" >
-     <img id="Scurvy" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-30/24_07.png"
-         alt = "An image showing the result of James Lind study for each of the 12 individuals. Each treatment is shown with a different icon, which has different color based on the final situation of the patient"
-       width = "500", height="600"
-   </a>
-  </div>
-    
 - ## Historical Markers in USA 🇺🇸
   <div align="center">
    <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-26" >
@@ -190,6 +191,13 @@ Below are some of my latest contributions.
       </a>
     </div>
     
+- ## Life Expectancy
+  <div align="center">
+   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-49" >
+     <img id="Life Expectancy" src="https://github.com/Ioannis-D/TidyTuesday/raw/main/2023/2023-week-49/Week_49.gif"
+   </a>
+  </div>
+
 - ## Central Park Squirrels 🏞️ 
     <div align="center">
   <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-21">
@@ -198,14 +206,6 @@ Below are some of my latest contributions.
   </a>
   </div>
   
-- ## Tornadoes 🌪️
-    <div align="center">
-  <a href="https://github.com/Ioannis-D/TidyTuesday/tree/main/2023/2023-week-20">
-    <img id="Tornados" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-20/Number_Injuries_Fatalities.png" alt="Number of Injuries and Fatalities from Tornados"
-         width= "500" height="500">
-  </a>
-    </div>
-    
 </details>
 
 <details>
