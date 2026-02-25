@@ -31,63 +31,63 @@ This is my GitHub account where you can find some of my personal projects and my
     <summary><h1>Skills Overview</h1></summary>
     <h3>Languages</h3>
     <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="python logo" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" title="Python" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  title="r logo"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  title="R" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  title="Bash" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="perl logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/perl/perl-original.svg" height="40" alt="perl logo" alt="Perl" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" title="C" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo" title="Lua" />
     </div>
     <h3>Databases</h3>
     <div align="left">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" title="MySQL" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" title="PostgreSQL" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo" title="SQLite" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo" title="GCP" />
       <img width="12" />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2FTDC-d525f4a3.png%3Ft%3D1742913806&f=1&nofb=1&ipt=ee62fd54bd003f5018a6e96b30bc3936121d55d1a3c303c3ae26959a3962fe1a" height="40" alt="teradata logo"  />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcompanieslogo.com%2Fimg%2Forig%2FTDC-d525f4a3.png%3Ft%3D1742913806&f=1&nofb=1&ipt=ee62fd54bd003f5018a6e96b30bc3936121d55d1a3c303c3ae26959a3962fe1a" height="40" alt="teradata logo" title="Teradata" />
       <img width="12" />
     </div>
     <h3>Tools</h3>
     <div align="left">
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Excel-Logo.png&f=1&nofb=1&ipt=2b71bfa5ba716cb206e510e287f7637fec79a34df176b9f9aa327adf2f2b0465" height="40" alt="excel logo"  />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-world.net%2Fwp-content%2Fuploads%2F2022%2F02%2FMicrosoft-Excel-Logo.png&f=1&nofb=1&ipt=2b71bfa5ba716cb206e510e287f7637fec79a34df176b9f9aa327adf2f2b0465" height="40" alt="excel logo" title="Excel" />
       <img width="12" />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D1200%26id%3D3sGOUDo9nJ4k%26format%3Dpng&f=1&nofb=1&ipt=677b2b4bd29856c7c34b7ffdc797fed7e2a0267f8d10cd88e8f7c6a57872baf4" height="40" alt="powerbi logo"  />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D1200%26id%3D3sGOUDo9nJ4k%26format%3Dpng&f=1&nofb=1&ipt=677b2b4bd29856c7c34b7ffdc797fed7e2a0267f8d10cd88e8f7c6a57872baf4" height="40" alt="powerbi logo" title="Power BI" />
       <img width="12" />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbootflare.com%2Fwp-content%2Fuploads%2F2023%2F04%2FTableau-Logo2-2048x1152.png&f=1&nofb=1&ipt=05152cb2b550171ea98970bdb9b07db6dc53ea81d057bffe1dd65d8225365b27" height="40" alt="tableau logo"  />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbootflare.com%2Fwp-content%2Fuploads%2F2023%2F04%2FTableau-Logo2-2048x1152.png&f=1&nofb=1&ipt=05152cb2b550171ea98970bdb9b07db6dc53ea81d057bffe1dd65d8225365b27" height="40" alt="tableau logo" title="Tableau" />
       <img width="12" />
-      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" title="Git" />
       <img width="12" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" title="Docker" />
     </div>
     <h3>Python libraries</h3>
     <div align="left">
-      <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo"  />
+      <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo" title="Pandas" />
       <img width="12" />
-      <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo"  />
+      <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy logo" title="NumPy" />
       <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo"  />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikitlearn logo" title="Scikit-learn" />
       <img width="12" />
-      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo"  />
+      <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo" title="TensorFlow" />
       <img width="12" />
-      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo"  />
+      <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="40" alt="pytorch logo" title="PyTorch" />
       <img width="12" />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeveloper.memryx.com%2F_static%2Fkeras_logo.png&f=1&nofb=1&ipt=1e73a9342b38c2163a323265259ce1d47a5d9f27638f157e854b093b9614d69b" height="40" alt="keras logo"  />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fdeveloper.memryx.com%2F_static%2Fkeras_logo.png&f=1&nofb=1&ipt=1e73a9342b38c2163a323265259ce1d47a5d9f27638f157e854b093b9614d69b" height="40" alt="keras logo" title="Keras" />
       <img width="12" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matplotlib/matplotlib-plain.svg" height="40" alt="matplotlib logo"  />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/matplotlib/matplotlib-plain.svg" height="40" alt="matplotlib logo" title="Matplotlib" />
       <img width="12" />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png&f=1&nofb=1&ipt=40c0d3a9d3d994de64db6fffe758b7dcb701fa200b098f93d5164391ca473dc7" height="40" alt="seaborn logo"  />
+      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F315810%2F92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png&f=1&nofb=1&ipt=40c0d3a9d3d994de64db6fffe758b7dcb701fa200b098f93d5164391ca473dc7" height="40" alt="seaborn logo" title="Seaborn" />
       <img width="12" />
-      <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo"  />
-    </div>
+      <img src="https://cdn.simpleicons.org/selenium/43B02A" height="40" alt="selenium logo" title="Selenium" />
+</div>
 </details>
 
 ###
