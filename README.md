@@ -96,8 +96,7 @@ This is my GitHub account where you can find some of my personal projects and my
 
 Below are some of my latest contributions. 
 
-<details>
-  <summary> <h1> TidyTuesday </h1> </summary> 
+<summary> <h1> TidyTuesday </h1> </summary> 
   
 - ## Tornadoes 🌪️
     <div align="center">
@@ -207,8 +206,6 @@ Below are some of my latest contributions.
         width= "500" height="500">
   </a>
   </div>
-  
-</details>
 
 <details>
 <summary> <h1> Personal Projects </h1> </summary>
