@@ -62,7 +62,7 @@ This is my GitHub account where you can find some of my personal projects and my
       <img width="12" />
       <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.icons8.com%2F%3Fsize%3D1200%26id%3D3sGOUDo9nJ4k%26format%3Dpng&f=1&nofb=1&ipt=677b2b4bd29856c7c34b7ffdc797fed7e2a0267f8d10cd88e8f7c6a57872baf4" height="40" alt="powerbi logo" title="Power BI" />
       <img width="12" />
-      <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fbootflare.com%2Fwp-content%2Fuploads%2F2023%2F04%2FTableau-Logo2-2048x1152.png&f=1&nofb=1&ipt=05152cb2b550171ea98970bdb9b07db6dc53ea81d057bffe1dd65d8225365b27" height="40" alt="tableau logo" title="Tableau" />
+      <img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/tableau-full-logo" height="40" alt="tableau logo" title="Tableau" />
       <img width="12" />
       <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" title="Git" />
       <img width="12" />
