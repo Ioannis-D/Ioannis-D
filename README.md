@@ -94,6 +94,7 @@ This is my GitHub account where you can find some of my personal projects and my
 
 Below are some of my latest contributions. 
 
+<details>
 <summary> <h1> TidyTuesday </h1> </summary> 
   
 - ## Tornadoes 🌪️
@@ -203,6 +204,7 @@ Below are some of my latest contributions.
    <img id="Central_Park_Squirrels" src="https://github.com/Ioannis-D/TidyTuesday/blob/main/2023/2023-week-21/Squirrels'%20Behavior%20with%20humans.png" alt="Squirrels running away or approaching humans" 
         width= "500" height="500">
   </a>
+ </details>
   </div>
 
 <details>
